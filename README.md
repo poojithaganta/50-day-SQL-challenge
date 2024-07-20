@@ -49,4 +49,5 @@ I welcome contributions and suggestions! If you have any improvements, additiona
 Thank you for visiting my repository! Let's embark on this SQL learning journey together.
 
 Happy querying!
+
 Poojitha Ganta
